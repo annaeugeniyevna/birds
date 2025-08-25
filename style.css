@@ -35,6 +35,12 @@ article {
     border-radius: 8px;
     box-shadow: 0 2px 5px;
 }
+img {
+    max-wdth: 100%;
+    height: auto;
+    display: block;
+    border-radius: 0.5rem;
+}
 rgba(0, 0, 0, 0.1)
 h2, h3 {
     color: #2e7d32;
@@ -45,4 +51,5 @@ footer {
     text-align: center;
     padding: 1rem;
     margin-top: 2rem;
+
 }
